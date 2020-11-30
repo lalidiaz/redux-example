@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Redux-example-app
-=======
-## Redux-example
->>>>>>> 92f196c0a945a6e74c5aeaf2658f57afba7711a0
+# Redux-example-App
+
+Redux Toolkit. 
+Simple Login-Logout app with Redux.
+
